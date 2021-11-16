@@ -7,7 +7,7 @@ const left = "yes";
     number = 18;
 
 console.log(left, number);
-alert("left");
+alert("left", 10);
 //document.write("");
 
 
